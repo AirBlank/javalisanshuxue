@@ -15,16 +15,16 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-565">
-              <caret line="136" column="38" lean-forward="true" selection-start-line="136" selection-start-column="38" selection-end-line="136" selection-end-column="38" />
+            <state relative-caret-position="608">
+              <caret line="392" column="0" lean-forward="true" selection-start-line="392" selection-start-column="0" selection-end-line="392" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#264#281#0" expanded="true" />
                 <element signature="method#init#0;class#test#0" expanded="false" />
                 <element signature="method#getTwoExpression#0;class#test#0" expanded="false" />
                 <element signature="method#initDefaultChartValue#0;class#test#0" expanded="false" />
                 <element signature="method#initValueTopqr#0;class#test#0" expanded="false" />
                 <element signature="class#Util#0" expanded="false" />
-                <element signature="class#exercise#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -71,9 +71,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,13 +87,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../java训练/java8新特性/流式函数式lambda/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="size&#9;PSI&#9;JAVA://com.sun.glass.ui.Size" />
   </component>
   <component name="RunDashboard">
@@ -170,11 +170,12 @@
       <workItem from="1538036195086" duration="796000" />
       <workItem from="1538055995735" duration="7000" />
       <workItem from="1538113625459" duration="14000" />
+      <workItem from="1538209709474" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32215000" />
+    <option name="totallyTimeSpent" value="32226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="122" y="48" width="1701" height="942" extended-state="0" />
@@ -228,12 +229,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#264#281#0" expanded="true" />
             <element signature="method#init#0;class#test#0" expanded="false" />
             <element signature="method#getTwoExpression#0;class#test#0" expanded="false" />
             <element signature="method#initDefaultChartValue#0;class#test#0" expanded="false" />
             <element signature="method#initValueTopqr#0;class#test#0" expanded="false" />
             <element signature="class#Util#0" expanded="false" />
-            <element signature="class#exercise#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -244,12 +245,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#264#281#0" expanded="true" />
             <element signature="method#init#0;class#test#0" expanded="false" />
             <element signature="method#getTwoExpression#0;class#test#0" expanded="false" />
             <element signature="method#initDefaultChartValue#0;class#test#0" expanded="false" />
             <element signature="method#initValueTopqr#0;class#test#0" expanded="false" />
             <element signature="class#Util#0" expanded="false" />
-            <element signature="class#exercise#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -260,12 +261,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#264#281#0" expanded="true" />
             <element signature="method#init#0;class#test#0" expanded="false" />
             <element signature="method#getTwoExpression#0;class#test#0" expanded="false" />
             <element signature="method#initDefaultChartValue#0;class#test#0" expanded="false" />
             <element signature="method#initValueTopqr#0;class#test#0" expanded="false" />
             <element signature="class#Util#0" expanded="false" />
-            <element signature="class#exercise#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -276,12 +277,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#264#281#0" expanded="true" />
             <element signature="method#init#0;class#test#0" expanded="false" />
             <element signature="method#getTwoExpression#0;class#test#0" expanded="false" />
             <element signature="method#initDefaultChartValue#0;class#test#0" expanded="false" />
             <element signature="method#initValueTopqr#0;class#test#0" expanded="false" />
             <element signature="class#Util#0" expanded="false" />
-            <element signature="class#exercise#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -292,12 +293,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#264#281#0" expanded="true" />
             <element signature="method#init#0;class#test#0" expanded="false" />
             <element signature="method#getTwoExpression#0;class#test#0" expanded="false" />
             <element signature="method#initDefaultChartValue#0;class#test#0" expanded="false" />
             <element signature="method#initValueTopqr#0;class#test#0" expanded="false" />
             <element signature="class#Util#0" expanded="false" />
-            <element signature="class#exercise#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -308,12 +309,28 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#264#281#0" expanded="true" />
             <element signature="method#init#0;class#test#0" expanded="false" />
             <element signature="method#getTwoExpression#0;class#test#0" expanded="false" />
             <element signature="method#initDefaultChartValue#0;class#test#0" expanded="false" />
             <element signature="method#initValueTopqr#0;class#test#0" expanded="false" />
             <element signature="class#Util#0" expanded="false" />
-            <element signature="class#exercise#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#264#281#0" expanded="true" />
+            <element signature="method#init#0;class#test#0" expanded="false" />
+            <element signature="method#getTwoExpression#0;class#test#0" expanded="false" />
+            <element signature="method#initDefaultChartValue#0;class#test#0" expanded="false" />
+            <element signature="method#initValueTopqr#0;class#test#0" expanded="false" />
+            <element signature="class#Util#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -390,16 +407,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-565">
-          <caret line="136" column="38" lean-forward="true" selection-start-line="136" selection-start-column="38" selection-end-line="136" selection-end-column="38" />
+        <state relative-caret-position="608">
+          <caret line="392" column="0" lean-forward="true" selection-start-line="392" selection-start-column="0" selection-end-line="392" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#264#281#0" expanded="true" />
             <element signature="method#init#0;class#test#0" expanded="false" />
             <element signature="method#getTwoExpression#0;class#test#0" expanded="false" />
             <element signature="method#initDefaultChartValue#0;class#test#0" expanded="false" />
             <element signature="method#initValueTopqr#0;class#test#0" expanded="false" />
             <element signature="class#Util#0" expanded="false" />
-            <element signature="class#exercise#0" expanded="false" />
           </folding>
         </state>
       </provider>
